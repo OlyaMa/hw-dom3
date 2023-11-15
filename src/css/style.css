@@ -1,0 +1,10 @@
+body {
+  color: #999;
+}
+
+td,
+th {
+  border: darkgrey solid 1px;
+  color: black;
+  padding: 3px;
+}
